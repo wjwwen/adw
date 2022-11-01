@@ -4,8 +4,8 @@ from pyspark.sql.functions import *
 from delta.tables import *
 from pyspark.sql.functions import input_file_name
 from pyspark.sql.window import Window
-// logging.basicConfig(level=logging.INFO)
-// logging.getLogger("py4j.java_gateway".setLevel(logging.Error))
+# logging.basicConfig(level=logging.INFO)
+# logging.getLogger("py4j.java_gateway".setLevel(logging.Error))
 
 dbutils.fs.ls('s3://plt-dswb-raw-dev-use1-s3/exchange-data/raw/2022/07')
 
