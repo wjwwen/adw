@@ -17,6 +17,9 @@ Written in Scala
 ## PySpark
 Python API for Apache Spark, connection through JDBC/ODBC
 
+## Appian
+Build automated workflows and applications
+
 ## Apache Airflow
 Developing, scheduling, and monitoring batch oriented workflows
 
