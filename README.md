@@ -28,3 +28,11 @@ Data governance
 
 ## MDLC (Model Development Lifecycle)
 Data ingestion, exploratory data analysis (EDA), model creation, model operation
+
+## Case Studies
+North American natural gas pipeline flow data <br>
+Freight rate forecasts <br>
+World Oil Supply normalization <br>
+Low carbon electricity capture price forecasts <br>
+Unified weather dataset <br>
+
